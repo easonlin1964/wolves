@@ -107,7 +107,7 @@ button{ font-family:"微软雅黑", "宋体"; cursor:pointer; border-radius:3px;
 }
 
 /*gshow-title*/
-.gshow-title, h1.title{
+.gshow-title, h1.title, h2.title{
     color: #333;
     font-size: 22px;
     margin-bottom: 10px;
