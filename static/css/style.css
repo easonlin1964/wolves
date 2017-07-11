@@ -500,9 +500,3 @@ h1.girl-title{
 .tabbox{clear:both;background-color:#FCECED;height:50px;padding-left:20px;padding-top:10px;border-top:2px solid #E0DEDF;}
 .tabbox span{float:left;height:50px;line-height:50px;width:280px;text-align:center;font-size:18px;font-weight:bold;cursor:pointer;}
 .tabbox span.on{background-color:#FFF;color:#EE2361;}
-
-iframe{
-	position:fixed;
-	right:15px;
-	top:150px;
-}
