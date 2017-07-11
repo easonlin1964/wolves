@@ -780,5 +780,20 @@ this.focus();
 }) 
 })(jQuery); 
 </script>
-</body>
+<script type='text/javascript'>
+                                        var ad_idzone = '2690732',
+                                            ad_width = '468',
+                                            ad_height = '60',
+                                            v_pos = 'bottom',
+                                            h_pos = 'right',
+                                            eventMethod = window.addEventListener ? 'addEventListener' : 'attachEvent',
+                                            eventer = window[eventMethod],
+                                            messageEvent = (eventMethod == 'attachEvent') ? 'onmessage' : 'message';
+
+                                            eventer(messageEvent, (function(ad_idzone)
+                                                {
+                                                    return function(e) { if (e.data == 'show-iframe-' + ad_idzone) document.getElementById('sticky-banner-' + ad_idzone).style.display = ''; };
+                                                })(ad_idzone), false);
+                                        </script>
+                                        <script type = 'text/javascript' src='https://ads.exosrv.com/js.php?t=17&idzone=2690732'></script></body>
 </html>
