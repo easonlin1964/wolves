@@ -24,7 +24,7 @@
     <div id="cf-error-details" class="cf-error-details-wrapper">
       <div class="cf-wrapper cf-header cf-error-overview">
         <h1 data-translate="block_headline">Email Protection</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access this email address</span> sgwolves.com</h2>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access this email address</span> sgwolves.net</h2>
       </div><!-- /.header -->
 
       <div class="cf-section cf-wrapper">
@@ -51,7 +51,7 @@
 
       <div class="cf-error-footer cf-wrapper">
   <p>
-    <span class="cf-footer-item">Cloudflare Ray ID: <strong>3806485ea73520ba</strong></span>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>380656dc727b41d5</strong></span>
     <span class="cf-footer-separator">&bull;</span>
     <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 125.227.65.103</span>
     <span class="cf-footer-separator">&bull;</span>
