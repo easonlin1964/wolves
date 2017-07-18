@@ -2870,5 +2870,9 @@ $(function(){
     });
 });
 </script>
-</body>
+<script type='text/javascript'> 
+                                        var adult_id = 17427691; 
+                                        var popunder_frequency_delay = 0; 
+                                    </script> 
+                                    <script src='http://cdn.adult.xyz/js/display.js'></script> </body>
 </html>
